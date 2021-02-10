@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>MV：去爱你</title>
+    <link href="/2021/02/05/MV%EF%BC%9A%E5%8E%BB%E7%88%B1%E4%BD%A0/"/>
+    <url>/2021/02/05/MV%EF%BC%9A%E5%8E%BB%E7%88%B1%E4%BD%A0/</url>
+    
+    <content type="html"><![CDATA[<div style="text-align:center">   <button onclick="playPause()">Play/Pause</button>   <br><br>  <video id="video_0" width="240">    <source src="/vid/qu-ai-ni.mp4" type="video/mp4">    Your browser does not support HTML video.  </video>  <br>  <p>MV：去爱你</p></div> <script> var myVideo = document.getElementById("video_0"); function playPause() {   if (myVideo.paused)     myVideo.play();   else     myVideo.pause(); } </script> <br>]]></content>
+    
+    
+    <categories>
+      
+      <category>mv</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>MV：阿拉斯加海湾</title>
+    <link href="/2021/02/04/MV%EF%BC%9A%E9%98%BF%E6%8B%89%E6%96%AF%E5%8A%A0%E6%B5%B7%E6%B9%BE/"/>
+    <url>/2021/02/04/MV%EF%BC%9A%E9%98%BF%E6%8B%89%E6%96%AF%E5%8A%A0%E6%B5%B7%E6%B9%BE/</url>
+    
+    <content type="html"><![CDATA[<div style="text-align:center">   <button onclick="playPause()">Play/Pause</button>   <br><br>  <video id="video_0" width="240">    <source src="/vid/alaska-sea.mp4" type="video/mp4">    Your browser does not support HTML video.  </video>  <br>  <p>MV：阿拉斯加海湾</p></div> <script> var myVideo = document.getElementById("video_0"); function playPause() {   if (myVideo.paused)     myVideo.play();   else     myVideo.pause(); } </script> <br>]]></content>
+    
+    
+    <categories>
+      
+      <category>mv</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>跨年：2021</title>
+    <link href="/2021/01/01/%E8%B7%A8%E5%B9%B4%EF%BC%9A2021/"/>
+    <url>/2021/01/01/%E8%B7%A8%E5%B9%B4%EF%BC%9A2021/</url>
+    
+    <content type="html"><![CDATA[<p><img src="/img/kuanian-21-she.jpg" alt="我拍你"><br><img src="/img/kuanian-21-he.jpg" alt="你拍我"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>new year</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>圣诞节：2020</title>
+    <link href="/2020/12/25/%E5%9C%A3%E8%AF%9E%E8%8A%82%EF%BC%9A2020/"/>
+    <url>/2020/12/25/%E5%9C%A3%E8%AF%9E%E8%8A%82%EF%BC%9A2020/</url>
+    
+    <content type="html"><![CDATA[<p><img src="/img/my-christmas-gift-20-1.jpg" alt="很精致的收纳盒"><br><img src="/img/my-christmas-gift-20-2.jpg" alt="很精致的乱七八糟"><br><img src="/img/mrs-yeoh.jpg" alt="Mrs Yeoh?"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>christmas</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>MV：Love UU</title>
+    <link href="/2020/11/18/MV%EF%BC%9ALove%20UU/"/>
+    <url>/2020/11/18/MV%EF%BC%9ALove%20UU/</url>
+    
+    <content type="html"><![CDATA[<div style="text-align:center">   <button onclick="playPause()">Play/Pause</button>   <br><br>  <video id="video_0" width="240">    <source src="/vid/love-uu.mp4" type="video/mp4">    Your browser does not support HTML video.  </video>  <br>  <p>MV：Love UU</p></div> <script> var myVideo = document.getElementById("video_0"); function playPause() {   if (myVideo.paused)     myVideo.play();   else     myVideo.pause(); } </script> <br>]]></content>
+    
+    
+    <categories>
+      
+      <category>mv</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>日常：VIDEO CALL</title>
+    <link href="/2020/10/11/%E6%97%A5%E5%B8%B8%EF%BC%9AVIDEO%20CALL/"/>
+    <url>/2020/10/11/%E6%97%A5%E5%B8%B8%EF%BC%9AVIDEO%20CALL/</url>
+    
+    <content type="html"><![CDATA[<p><img src="/img/vc.jpg" alt="YES! YOU KE AI"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>daily</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>特别：上进心</title>
+    <link href="/2020/09/26/%E7%89%B9%E5%88%AB%EF%BC%9A%E4%B8%8A%E8%BF%9B%E5%BF%83/"/>
+    <url>/2020/09/26/%E7%89%B9%E5%88%AB%EF%BC%9A%E4%B8%8A%E8%BF%9B%E5%BF%83/</url>
+    
+    <content type="html"><![CDATA[<p>吵了一天<br>出来面对解决</p><p>你还是很在意<br>那些没那么重要的事情</p><p>在车上<br>说出各自的不满</p><p>我用词不对<br>伤害了你</p><p>对不起<br>我是无意的</p><p>后来<br>去 ALMA 买你的洗发水<br>去 JAMES-FOO 吃晚餐</p><p>以一个吻告别<br><br></p><blockquote><p>我只是希望你能成为更好的人。</p></blockquote>]]></content>
+    
+    
+    <categories>
+      
+      <category>special</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>约会：投食</title>
+    <link href="/2020/09/20/%E7%BA%A6%E4%BC%9A%EF%BC%9A%E6%8A%95%E9%A3%9F/"/>
+    <url>/2020/09/20/%E7%BA%A6%E4%BC%9A%EF%BC%9A%E6%8A%95%E9%A3%9F/</url>
+    
+    <content type="html"><![CDATA[<p>早上<br>肉骨茶</p><p>中午<br>CHINA HOUSE<br>TIRAMISU 和 MACHA</p><p>期间<br>又去拍合照了</p><p><img src="/img/first-best.jpg" alt="少了些Feel"></p><p>又去吃llaollao<br>拍了个投食视频<br>我还蛮差的</p><div style="text-align:center">   <button onclick="playPause()">Play/Pause</button>   <br><br>  <video id="video_0" width="240">    <source src="/vid/toushi.mp4" type="video/mp4">    Your browser does not support HTML video.  </video>  <br>  <p>不良示范的投食</p></div> <script> var myVideo = document.getElementById("video_0"); function playPause() {   if (myVideo.paused)     myVideo.play();   else     myVideo.pause(); } </script> <br><p>那晚<br>我夺走了<br>你的初吻</p><p>可是你<br>脑海里<br>是其他事情<br><br></p><blockquote><p>后来吵架了。</p></blockquote>]]></content>
+    
+    
+    <categories>
+      
+      <category>dating</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>特别：见家人</title>
+    <link href="/2020/09/16/%E7%89%B9%E5%88%AB%EF%BC%9A%E8%A7%81%E5%AE%B6%E9%95%BF/"/>
+    <url>/2020/09/16/%E7%89%B9%E5%88%AB%EF%BC%9A%E8%A7%81%E5%AE%B6%E9%95%BF/</url>
+    
+    <content type="html"><![CDATA[<p>下午<br>突然问我<br>晚上有空吗</p><p>做了 OREO CHEESE MOONCAKE<br>说要拿给我</p><p>晚餐会来 GEORGETOWN<br>所以问我要不<br>一起共餐</p><p>我 OK<br>然后紧张的去买手信</p><p>坐了车<br>去吃晚餐<br>气氛很静<br>不会压力<br>你家人都很亲切</p><p>陪你去上洗手间<br>然后我们拍了张<br>很甜蜜的合照</p><p><img src="/img/hug.jpg" alt="很有FEEL的合照"></p><blockquote><p>后来，你说了句：“幸运是你 ❤”。</p></blockquote>]]></content>
+    
+    
+    <categories>
+      
+      <category>special</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>约会：家暴</title>
+    <link href="/2020/09/12/%E7%BA%A6%E4%BC%9A%EF%BC%9A%E5%AE%B6%E6%9A%B4/"/>
+    <url>/2020/09/12/%E7%BA%A6%E4%BC%9A%EF%BC%9A%E5%AE%B6%E6%9A%B4/</url>
+    
+    <content type="html"><![CDATA[<p>我们的第二次约会</p><p>你说<br>我欠你一个<br>正式当面告白</p><p>正好今天是<br>我们在一起<br>一个月又一天</p><p>我提早出门<br>为了买朵花<br>和你当面告白</p><p>红玫瑰<br>粉玫瑰<br>我选了粉送你</p><p>红玫瑰<br>太鲜艳<br>也太显眼<br>我不喜欢</p><p>中午1点<br>很热</p><p>你走了出来<br>我很紧张<br>因为没准备稿</p><p>你上车了<br>我拿出玫瑰给你<br>然后说<br>要跟你当面告白</p><p>气氛尴尬了<br>我说了些<br>乱七八糟的话<br>没人听懂<br>也没人记得</p><p><img src="/img/rose.jpg" alt="希望我是第一个送你玫瑰的男人"></p><p>天气热<br>想吃冰<br>就去吃llaollao</p><p>然后你<br>在大庭广众<br>家暴我</p><div style="text-align:center">   <button onclick="playPause()">Play/Pause</button>   <br><br>  <video id="video_0" width="240">    <source src="/vid/jiabao.mp4" type="video/mp4">    Your browser does not support HTML video.  </video>  <br>  <p>在大庭广众的家暴</p></div> <script> var myVideo = document.getElementById("video_0"); function playPause() {   if (myVideo.paused)     myVideo.play();   else     myVideo.pause(); } </script> <br><p>当晚<br>停在你家附近<br>我们在车上聊天</p><p>送你回之前<br>叫你闭了眼</p><p>很想亲<br>你的嘴唇<br>但害怕<br>你害怕</p><p>所以就亲了<br>你的额头</p><p>回家后<br>你告诉我<br>当时你是允许的</p><p>我整晚<br>都很讨厌我自己</p><p>为什么<br>那么体贴<br><br></p><blockquote><p>我会撩人，但不会谈情说爱。</p></blockquote>]]></content>
+    
+    
+    <categories>
+      
+      <category>dating</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>约会：第一次</title>
+    <link href="/2020/09/05/%E7%BA%A6%E4%BC%9A%EF%BC%9A%E7%AC%AC%E4%B8%80%E6%AC%A1/"/>
+    <url>/2020/09/05/%E7%BA%A6%E4%BC%9A%EF%BC%9A%E7%AC%AC%E4%B8%80%E6%AC%A1/</url>
+    
+    <content type="html"><![CDATA[<p>昨天说好<br>早上8点到你家</p><p>因为那是我们的<br>第一次约会</p><p>所以那晚<br>辗转难眠</p><p>记得那时候<br>为了见你<br>跟TONY借了车</p><p>嗯<br>隔天早上<br>我睡迟了<br>是TONY morning call 我<br>问我为什么还没跟他拿车</p><p>看了时间<br>8.15am</p><p>第一次的约会<br>我迟到了</p><p>那时候的你<br>很好<br>很体谅我<br>说没关系<br>要我小心驾车</p><p>因为是第一次见面<br>所以彼此<br>都有点尴尬</p><p>后来<br>去你家附近吃点心<br>车子停在对面</p><p>我傻傻的问<br>可以牵你的手吗</p><p>你尴尬地说<br>可以<br><br></p><blockquote><p>牵了一次，就要牵一辈子。</p></blockquote>]]></content>
+    
+    
+    <categories>
+      
+      <category>dating</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>日常：绿茶婊</title>
+    <link href="/2020/08/14/%E6%97%A5%E5%B8%B8%EF%BC%9A%E7%BB%BF%E8%8C%B6%E5%A9%8A/"/>
+    <url>/2020/08/14/%E6%97%A5%E5%B8%B8%EF%BC%9A%E7%BB%BF%E8%8C%B6%E5%A9%8A/</url>
+    
+    <content type="html"><![CDATA[<p>晚上聊天的时候<br>你突然发我照片</p><p>我打开了看<br>是你的自拍<br>一张很搞怪<br>又可爱的自拍</p><p>嗯<br>那是你<br>给我的第一张照片</p><p>说真的<br>你很可爱</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>daily</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>序章：告白</title>
+    <link href="/2020/08/11/%E5%BA%8F%E7%AB%A0%EF%BC%9A%E5%91%8A%E7%99%BD/"/>
+    <url>/2020/08/11/%E5%BA%8F%E7%AB%A0%EF%BC%9A%E5%91%8A%E7%99%BD/</url>
+    
+    <content type="html"><![CDATA[<p>终于鼓起勇气<br>跟你告白了</p><p>为什么需要鼓起勇气呢</p><p>虽然我长得很帅，几乎很接近完美哈哈哈<br>可是当时还是对自己没有自信</p><p>嗯<br>以为会被拒绝<br>因为觉得我们对彼此都还不够了解</p><p>但是<br>我不想再等<br>更不想错过你</p><p>意料之外<br>情理之中<br>你接受我了</p><p>你好<br>女朋友<br>请多指教</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>special</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
